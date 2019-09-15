@@ -1,2 +1,2 @@
 # Zombie-Dash
-Maze game where you try to reach the exit while avoiding sickness-inducing zombies.
+A maze game where you control the main character Penelope. The objective of each level is to guide all citizens to the exit and afterwards, exit yourself. Using the keyboard directional arrow keys, you can move Penelope to help guide the citizens. However, there are also pits that you can fall down and zombies that will infect your or the citizens, so be sure to steer clear of those! To aid you on your journey, there are landmines, flamethrowers, and health kits that you can pick up and activate as well.
